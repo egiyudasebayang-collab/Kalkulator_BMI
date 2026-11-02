@@ -10,7 +10,6 @@ Aplikasi untuk menghitung **Body Mass Index (BMI)** berdasarkan berat badan, tin
 | :---: | :---: |
 | <img src="screenshots/UI-BMI.png" alt="Tampilan GUI Kalkulator BMI" width="320"/> | <img src="screenshots/BMI-Terminal.png" alt="Tampilan Terminal Kalkulator BMI" width="380"/> |
 
-*(Catatan: Jika gambar disimpan langsung di luar folder/sejajar dengan `README.md`, cukup ubah `src="screenshots/UI-BMI.png"` menjadi `src="UI-BMI.png"` dan `src="BMI-Terminal.png"`)*.
 
 ---
 
